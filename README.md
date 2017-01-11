@@ -1,2 +1,3 @@
 # KissCartoon-AdHider
-Automatically hides ads on KissCartoon
+
+A script to automatically hide ads on KissCartoon. Based on Bates550's [kissterisk_adhider](https://github.com/Bates550/kissterisk_adhi
